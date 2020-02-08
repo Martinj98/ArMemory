@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Klaver_Boer" size="10.000000 12.879519" />
+    <ImageTarget name="Hart_Boer" size="10.000000 12.985410" />
+    <ImageTarget name="Schoppen_Boer" size="10.000000 12.674418" />
+    <ImageTarget name="Ruit_Boer" size="10.000000 13.242280" />
+    <ImageTarget name="Hart" size="10.000000 13.593005" />
+    <ImageTarget name="Klaver" size="10.000000 12.809458" />
+    <ImageTarget name="Schoppen" size="10.000000 14.031972" />
+    <ImageTarget name="Ruit" size="10.000000 14.057725" />
+  </Tracking>
+</QCARConfig>
